@@ -40,3 +40,12 @@ For MOBILE VIEW
 
 ![Screenshot 2024-07-24 000651](https://github.com/user-attachments/assets/236ab807-b85a-42e6-8a59-844ca64132fe)
 
+
+
+THE BACKEND PART OF THIS PROJECT IS IN PROGRESS
+
+#To run this project, use the commands in the following way-
+1) Clone the repository to your local machine
+2) npm i - to install all dependencies
+3) npm start- to start the project
+
